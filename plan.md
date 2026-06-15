@@ -1,3 +1,8 @@
+add this to your prompt:
+
+Use maven 3.9.16, do not use fxml, use windows and i have installed zulu v 25 with java fx components so we don't need to specify these in the maven pom.xml.
+
+
 Project Overview
 Project Name: Lava Lamp Mood Widget
 Goal: Create a modern, frameless, transparent JavaFX desktop widget that displays smoothly animated lava-lamp-style blobs drifting across the screen. The widget serves as a visual desktop accessory rather than a traditional application window.
