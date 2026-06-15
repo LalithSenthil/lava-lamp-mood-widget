@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Lava Lamp Mood Widget",
+            "request": "launch",
+            "mainClass": "com.example.lavalamp.AppLauncher",
+            "vmArgs": "--module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml",
+            "projectRoot": "${workspaceFolder}/src/main/java"
+        }
+    ]
+}
